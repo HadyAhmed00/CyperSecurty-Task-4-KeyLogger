@@ -25,12 +25,3 @@ To install the program, follow these steps:
 ## Usage
 
 The program runs in the background, logging all key presses. Every time the user enters 1000 characters, an email with the logs is sent to the specified email address. The program also archives the logs for future reference.
-
-## Personal Information
-
-Please replace the information in the program with your own personal information.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
