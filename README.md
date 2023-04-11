@@ -2,7 +2,7 @@
 
 
 
-This program logs all the keys that the user inputs, and can send an email with the logs every time the user enters 300 characters. It also archives the logs for future reference.
+This program logs all the keys that the user inputs, and can send an email with the logs every time the user enters 1000 characters. It also archives the logs for future reference.
 
 ## Getting Started
 
